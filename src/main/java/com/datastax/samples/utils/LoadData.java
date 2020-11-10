@@ -1,4 +1,4 @@
-package com.datastax.tcf.samples.utils;
+package com.datastax.samples.utils;
 
 import java.sql.Date;
 import java.text.DecimalFormat;

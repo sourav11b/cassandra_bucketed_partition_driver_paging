@@ -1,4 +1,4 @@
-package com.datastax.tcf.samples;
+package com.datastax.samples;
 
 import java.io.IOException;
 import java.text.DecimalFormat;
